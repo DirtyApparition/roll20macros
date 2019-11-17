@@ -2,7 +2,7 @@
 
 &{template:default} {{name=Dandy Chiggins:}} {{🎵 Flute}} {{Begins to play a light tune on his flute pretending to not be paying any attention to what is going on around him.}}
 
-&{template:default} {{name=Dandy Chiggins:}} {{🗡️ Rapier}} {{Thrusts his rapier forward.}} {{🎲 Attack Hit Roll=[[1d20+4]]}} {{🎲 Damage Roll=[[1d8+2]]}}
+&{template:default} {{name=Dandy Chiggins:}} {{🗡️ [Rapier](https://roll20.net/compendium/dnd5e/Rapier#content)}} {{Thrusts his rapier forward.}} {{🎲 Attack Hit Roll=[[1d20+4]]}} {{🎲 Damage Roll=[[1d8+2]]}}
 
 &{template:default} {{name=Dandy Chiggins:}} {{👂 Perception}} {{Spot, hear, or otherwise detect the presence of something obscured or quiet.}} {{🎲 Perception Roll=[[1d20+4]]}}
 
