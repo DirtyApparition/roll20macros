@@ -20,14 +20,14 @@ the way it is.
 
 Each macro begins with "&{template:default}".
 
-(Example: my Wizard's light crossbow has a modifier of +3 to hit. 
+**Example: my Wizard's light crossbow has a modifier of +3 to hit:**
 
 ![lightcrossbowsheet](images/lightcrossbow.jpg)
 
 ``&{template:default} {{name=Coolie Whistles:}} {{🏹 [Light Crossbow](https://roll20.net/compendium/dnd5e/Items:Light%20Crossbow#h-Light%20Crossbow)}} {{Carefully aims his light crossbow}}{{🎲 Attack Hit Roll=[[1d20+3]]}} {{🎲 Damage Roll=[[1d8+1]]}}``
 
-So the dice is input as "1d20+3" (one 20-sided dice rolled and add 3 to it). Damage is rolled separately and is 
-"1d8+1" (one 8-sided dice and add 1 to it).
+So the dice is input as "**1d20+3**" (one 20-sided dice rolled and add 3 to it). Damage is rolled separately and is 
+"**1d8+1**" (one 8-sided dice and add 1 to it).
 
 ![Light Crossbow attack macro with Hit and Damage built in](images/macro-example1.jpg)
 
