@@ -37,8 +37,8 @@ So the dice is input as "**1d20+3**" (one 20-sided dice rolled and add 3 to it).
 
 ``&{template:default} {{name=Dandy Chiggins:}} {{🗡️ [Rapier](https://roll20.net/compendium/dnd5e/Rapier#content)}} {{Thrusts his rapier forward.}} {{🎲 Attack Hit Roll=[[1d20+4]]}} {{🎲 Damage Roll=[[1d8+2]]}}``
 
-So the dice for a hit roll is "1d20+4". Which is one 20-sided dice, plus 4 due to the hit modifier. The damage 
-shows as "1d8+2" which is one 8-sided dice plus 2 for damage modifier with dex. Since it is a finesse weapon, it can 
+So the dice for a hit roll is "**1d20+4**". Which is one 20-sided dice, plus 4 due to the hit modifier. The damage 
+shows as "**1d8+2**" which is one 8-sided dice plus 2 for damage modifier with dex. Since it is a finesse weapon, it can 
 use dex or str. Whichever is higher.
 
 ![rapiermacro](images/rapiermacro.jpg)
