@@ -1,0 +1,9 @@
+//GENERIC WEAPON MACRO (YOU WILL NEED TO FILL STUFF IN)*****
+
+&{template:default} {{name=Character Name:}} {{⚔️ [Name of Weapon](Compendium Link)}} {{"Weapon Flavor Text"}}{{🎲 Attack Hit Roll=[[1d20+3]]}} {{🎲 Damage Roll=[[1d8+1]]}}
+
+
+
+//EXAMPLE WEAPON MACRO*****
+
+&{template:default} {{name=Coolie Whistles:}} {{🏹 [Light Crossbow](https://roll20.net/compendium/dnd5e/Items:Light%20Crossbow#h-Light%20Crossbow)}} {{Carefully aims his light crossbow}}{{🎲 Attack Hit Roll=[[1d20+3]]}} {{🎲 Damage Roll=[[1d8+1]]}}
