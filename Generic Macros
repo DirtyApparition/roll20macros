@@ -1,6 +1,9 @@
-// There is an example weapon macro below the generic one so you can see an example of what to fill in. You will also need to look // at the hit modifier on your personal character sheet to input the correct rolls on the dice section. You will be adapting each // section to your character except the "&{template:default}" which you will need to leave exactly the way it is.
+// There is an example weapon macro below the generic one so you can see an example of what to fill in. You will also need to 
+// look // at the hit modifier on your personal character sheet to input the correct rolls on the dice section. You will be 
+// adapting each // section to your character except the "&{template:default}" which you will need to leave exactly the way it is.
 
-// (Example: my wizard's light crossbow has a modifier of +3 to hit. So the dice is input as "1d20+3" (one 20-sided dice rolled and // add 3 to it). Damage is rolled separately and is "1d8+1" (one 8-sided dice and add 1 to it).
+// (Example: my wizard's light crossbow has a modifier of +3 to hit. 
+// So the dice is input as "1d20+3" (one 20-sided dice rolled and // add 3 to it). Damage is rolled separately and is "1d8+1" (one 8-sided dice and add 1 to it).
 
 //GENERIC WEAPON MACRO (YOU WILL NEED TO FILL STUFF IN)*****
 &{template:default} {{name=CHARACTER NAME:}} {{⚔️ [NAME OF WEAPON](ROLL20 COMPENDIUM LINK)}} {{WEAPON FLAVOR TEXT}}{{🎲 Attack Hit Roll=[[HIT DICE ROLL]]}} {{🎲 Damage Roll=[[DAMAGE DICE ROLL]]}}
