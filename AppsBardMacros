@@ -1,0 +1,22 @@
+&{template:default} {{name=Dandy Chiggins:}} {{⏳ Initiative}} {{Gets ready to fight.}} {{🎲 Initiative Roll=[[1d20+2]]}} &{tracker}
+
+&{template:default} {{name=Dandy Chiggins:}} {{🎵 Flute}} {{Begins to play a light tune on his flute pretending to not be paying any attention to what is going on around him.}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{🗡️ Rapier}} {{Thrusts his rapier forward.}} {{🎲 Attack Hit Roll=[[1d20+4]]}} {{🎲 Damage Roll=[[1d8+2]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{👂 Perception}} {{Spot, hear, or otherwise detect the presence of something obscured or quiet.}} {{🎲 Perception Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{😾 Acrobatics}} {{Attempts to stay on my feet in a tricky situation.}} {{🎲 Acrobatics Roll=[[1d20+2]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{🔮 Arcana}} {{Recalls lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.}} {{🎲 Arcana Roll=[[1d20+1}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{🕶️ Deception}} {{Try to convincingly hide the truth, either verbally or through your actions.}} {{🎲 Deception Roll=[[1d20+2]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{📚 History}} {{Recalls lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.}} {{🎲 History Roll=[[1d20+1]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{👓 Insight}} {{Determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move from body language, speech habits, and changes in mannerisms.}} {{🎲 Insight Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{👂 Perception}} {{Spot, hear, or otherwise detect the presence of something obscured or quiet.}} {{🎲 Perception Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Dandy Chiggins:}} {{👊 Persuasion}} {{Attempt to influence someone or a group of people with tact, social graces, or good nature}} {{🎲 Persuasion Roll=[[1d20+2]]}}
+
