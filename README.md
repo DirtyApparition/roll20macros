@@ -19,7 +19,7 @@ You will also need to look at the hit modifier on your personal character sheet 
 You will be adapting each section to your character except the "&{template:default}" which you will need to leave exactly 
 the way it is.
 
-Each macro begins with "&{template:default}" and end with "}".
+Each macro begins with "&{template:default}".
 
 (Example: my wizard's light crossbow has a modifier of +3 to hit. 
 So the dice is input as "1d20+3" (one 20-sided dice rolled and add 3 to it). Damage is rolled separately and is 
