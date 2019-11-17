@@ -22,6 +22,9 @@ the way it is.
 Each macro begins with "&{template:default}".
 
 (Example: my wizard's light crossbow has a modifier of +3 to hit. 
+
+![lightcrossbowsheet](images/lightcrossbow.jpg)
+
 So the dice is input as "1d20+3" (one 20-sided dice rolled and add 3 to it). Damage is rolled separately and is 
 "1d8+1" (one 8-sided dice and add 1 to it). Your character may have a hit modifier of let's say 3. So it would be
 "1d8+3" instead.
