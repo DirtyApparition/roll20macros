@@ -1,3 +1,5 @@
+&{template:default} {{name=Coolie Whistles:}} {{⏳ Initiative}} {{Gets ready to fight.}} {{🎲 Initiative Roll=[[1d20+1]]}} &{tracker}
+
 &{template:default} {{name=Coolie Whistles:}} {{[🧪 Acid Splash](https://roll20.net/compendium/dnd5e/Acid%20Splash#content)}} {{Hurls a bubble of acid within ``60ft.`` hitting one or two creatures that are within ``5 ft.`` of each other for [[1d6]]}}
 
 &{template:default} {{name=Coolie Whistles:}} {{😾 Acrobatics}} {{Attempts to stay on my feet in a tricky situation.}} {{🎲 Acrobatics Roll=[[1d20+1]]}}
