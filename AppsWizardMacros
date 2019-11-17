@@ -1,0 +1,25 @@
+&{template:default} {{name=Coolie Whistles:}} {{[🧪 Acid Splash](https://roll20.net/compendium/dnd5e/Acid%20Splash#content)}} {{Hurls a bubble of acid within ``60ft.`` hitting one or two creatures that are within ``5 ft.`` of each other for [[1d6]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{😾 Acrobatics}} {{Attempts to stay on my feet in a tricky situation.}} {{🎲 Acrobatics Roll=[[1d20+1]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{🔮 Arcana}} {{Recalls lore about spells, magic items, eldritch symbols, magical traditions, the planes of existence, and the inhabitants of those planes.}} {{🎲 Arcana Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{👻 [Chill Touch](https://roll20.net/compendium/dnd5e/Chill%20Touch#h-Chill%20Touch)}} {{Creates a ghostly, skeletal hand in the space of a creature within a range of ``120ft.``. It can’t regain hit points until the start of my next turn and deals [[1d8]] damage if it hits}} {{Spell Hit Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{🕶️ Deception}} {{Try to convincingly hide the truth, either verbally or through your actions.}} {{🎲 Deception Roll=[[1d20+3]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{📚 History}} {{Recalls lore about historical events, legendary people, ancient kingdoms, past disputes, recent wars, and lost civilizations.}} {{🎲 History Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{👓 Insight}} {{Determine the true intentions of a creature, such as when searching out a lie or predicting someone’s next move from body language, speech habits, and changes in mannerisms.}} {{🎲 Insight Roll=[[1d20+4]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{🏹 [Light Crossbow](https://roll20.net/compendium/dnd5e/Items:Light%20Crossbow#h-Light%20Crossbow)}} {{Carefully aims his light crossbow}}{{🎲 Attack Hit Roll=[[1d20+3]]}} {{🎲 Damage Roll=[[1d8+1]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{🧤 [Mage Hand](https://roll20.net/compendium/dnd5e/Mage%20Hand#h-Mage%20Hand)}} {{A spectral, floating hand appears at a point I choose within range ``30ft.``}}
+
+&{template:default} {{name=Coolie Whistles:}} {{☄️ [MagicMissile](https://roll20.net/compendium/dnd5e/Magic%20Missile#content)}}{{ Instantaneously creates three glowing darts of magical force targeting 1-3 creatures within range ``120ft.``}} {{🎲 Magic Missile 1 Roll=[[1d4+1]]}}{{🎲 Magic Missile 2 Roll=[[1d4+1]]}}{{🎲 Magic Missile 3 Roll=[[1d4+1]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{👂 Perception}} {{Spot, hear, or otherwise detect the presence of something obscured or quiet.}} {{🎲 Perception Roll=[[1d20+2]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{👊 Persuasion}} {{Attempt to influence someone or a group of people with tact, social graces, or good nature}} {{🎲 Persuasion Roll=[[1d20+1]]}}
+
+&{template:default} {{name=Coolie Whistles:}} {{🌐 [Shield](https://roll20.net/compendium/dnd5e/Spells:Shield/#h-Shield)}} {{An invisible barrier of magical force appears and protects granting ``+5 to AC``}}
