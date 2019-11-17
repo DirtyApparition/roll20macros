@@ -12,10 +12,13 @@ for anyone in the game to click to view more about the spell directly from the R
 
 ![magicmissilecompendium](images/magicmisslelink.jpg)
 
-There is an example weapon and spell macro below the generic ones so you can see an example of what to fill in. You will 
-also need to look at the hit modifier on your personal character sheet to input the correct rolls on the dice section. 
+There is an example weapon and spell macro below the generic ones in the "Generic Macros" file so you can see an example of 
+what to fill in. 
+
+You will also need to look at the hit modifier on your personal character sheet to input the correct rolls on the dice section. 
 You will be adapting each section to your character except the "&{template:default}" which you will need to leave exactly 
 the way it is.
+
 Each macro begins with "&{template:default}" and end with "}".
 
 (Example: my wizard's light crossbow has a modifier of +3 to hit. 
