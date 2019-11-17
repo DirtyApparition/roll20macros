@@ -2,15 +2,6 @@ Repo for Roll20 macros for two purposes:
 1. To help others
 2. Backup.
 
-Example:
-
-![Magic Missile with 3 different rolls for each missile.](images/macro-example0.jpg)
-
-Magic Missile with a different roll for each missile. The "☄️ Magic Missile" line is actually clickable and brings up a window
-for anyone in the game to click to view more about the spell directly from the Roll20 compendium:
-
-![magicmissilecompendium](images/magicmisslelink.jpg)
-
 There is an example weapon and spell macro below the generic ones in the "Generic Macros" file so you can see an example of 
 what to fill in. 
 
@@ -42,3 +33,12 @@ shows as "**1d8+2**" which is one 8-sided dice plus 2 for damage modifier with d
 use dex or str. Whichever is higher.
 
 ![rapiermacro](images/rapiermacro.jpg)
+
+Another Example:
+
+![Magic Missile with 3 different rolls for each missile.](images/macro-example0.jpg)
+
+Magic Missile with a different roll for each missile. The "☄️ Magic Missile" line is actually clickable and brings up a window
+for anyone in the game to click to view more about the spell directly from the Roll20 compendium:
+
+![magicmissilecompendium](images/magicmisslelink.jpg)
